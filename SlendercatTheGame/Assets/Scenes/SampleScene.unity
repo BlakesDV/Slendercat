@@ -1131,11 +1131,11 @@ GameObject:
   - component: {fileID: 1669082998}
   - component: {fileID: 1669082997}
   - component: {fileID: 1669082996}
-  - component: {fileID: 1669083002}
   - component: {fileID: 1669083003}
+  - component: {fileID: 1669083002}
   - component: {fileID: 1669083004}
   m_Layer: 0
-  m_Name: Capsule
+  m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
